@@ -1,0 +1,13 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSED",
+  "private": null,
+  "devDependencies": {
+    "eslint": "^8.34.0",
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1",
+    "webpack-dev-server": "^4.11.1"
+  }
+}
